@@ -1,0 +1,1403 @@
+{
+    "Drug List Result": [
+                     {
+                     "Generic Name": "Hydrocodone Bitartrate w/ Acetaminophen",
+                     "Brand Name": "Lortab®, Vicodin®, Lorcet®, Norco®",
+                     "Rating": 1,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Acetaminophen produces analgesia by inhibiting postaglandin synthesis in the CNS and through a peripheral action by blocking pain impulse generation. Hydrocodone bitrate produces analgesia cantrally via action on the central opiate receptors."
+                     },
+                     {
+                     "Generic Name": "Levothyroxine Sodium",
+                     "Brand Name": "Synthroid®, Levoxyl®, Levothroid®",
+                     "Rating": 2,
+                     "Class": "Hormone / Thyroid",
+                     "Mechanism of Action": "The exact mechanism is unknown - thought to be due to protein synthesis control resulting in: 1) a regulation of growth and development, 2) an increase in metabolic rate, 3) inhibition of the secretion of thyrotropin by the pituitary, 4) various effects on lipid and carbohydrate metabolism."
+                     },
+                     {
+                     "Generic Name": "Lisinopril",
+                     "Brand Name": "Prinivil®, Zestril®",
+                     "Rating": 3,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Competitively inhibits angiotensin converting enzyme (ACE), resulting in decreased synthesis of angiotensin II and a decrease in aldosterone release. This in turn decreases sodium and water reabsorption and lowers plasma volume. ACE is also involved in the degradation of bradykinin (a vasodilator)."
+                     },
+                     {
+                     "Generic Name": "Simvastatin",
+                     "Brand Name": "Zocor®",
+                     "Rating": 4,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Hydrolyzed to its b-hydroxyacid form, becoming a specific inhibitor of HMG-CoA reductase. This enzyme is responsible for the conversion of HMG-CoA to mevalonate, an early rate limiting step in the synthesis of cholesterol."
+                     },
+                     {
+                     "Generic Name": "Omeprazole",
+                     "Brand Name": "Prilosec®",
+                     "Rating": 5,
+                     "Class": "Gastric Antisecretory",
+                     "Mechanism of Action": "Protein pump inhibitor that suppresses the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell, inhibiting the final step of acid production."
+                     },
+                     {
+                     "Generic Name": "Amlodipine Besylate",
+                     "Brand Name": "Norvasc®",
+                     "Rating": 6,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Calcium channel blocker which inhibits the influx of calcium ions across specific cellular membranes (slow channels) in vascular smooth muscle and cardiac muscle. Specific effects include: 1) a decrease in peripheral vascular resistance, 2) a dilation of coronary arteries and arterioles, 3) an inhibition of coronary spasm"
+                     },
+                     {
+                     "Generic Name": "Metformin Hydrochloride",
+                     "Brand Name": "Glucophage® (XR)",
+                     "Rating": 7,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "Improves glucose tolerance by decreasing interstinal absorption of glucose, suppresses hepatic gluconeogenesis, and improves insulin sensitivity."
+                     },
+                     {
+                     "Generic Name": "Metoprolol Tartrate",
+                     "Brand Name": "Lopressor®",
+                     "Rating": 8,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Cadioselective beta-1 adrenergic receptor blocker which: 1) decreases heart rate and cardiac output, 2) decreases systolic and diastolic blood pressure, 3) inhibits isoproterenol tachycardia, 4) decreases reflex orthostatic tachycardia"
+                     },
+                     {
+                     "Generic Name": "Albuterol Sulfate (inhalation)",
+                     "Brand Name": "Proventil® HFA,  Proair® HFA, Ventolin® HFA",
+                     "Rating": 9,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Stimulates adenyl cyclase, causing relaxation of bronchial, uterine, and vascular smooth muscle through stimulation of beta-2-adrenergic receptors."
+                     },
+                     {
+                     "Generic Name": "Furosemide",
+                     "Brand Name": "Lasix®",
+                     "Rating": 10,
+                     "Class": "Diuretic",
+                     "Mechanism of Action": "Inhibits reabsorption of sodium and chloride in the proximal and distal tubules, but more importantly, in the loop of Henle. "
+                     },
+                     {
+                     "Generic Name": "Atorvastatin Calcium",
+                     "Brand Name": "Lipitor®",
+                     "Rating": 11,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Selective, competitive inhibitor of HMG-CoA reductase. This enzyme is responsible for the conversioin of HMG-CoA to mevalonate, an early rate limiting step in the synthesis of cholesterol. It also increases the number of LDL receptors on the surface of the cell."
+                     },
+                     {
+                     "Generic Name": "Alprazolam",
+                     "Brand Name": "Xanax® (XR)",
+                     "Rating": 12,
+                     "Class": "Antianxiety Agent",
+                     "Mechanism of Action": "Facilitates the inhibitory neurotransmitter action of gamma-aminobutyric acid (GABA), which mediated both pre- and post-synaptic inhibition in all regions of the CNS"
+                     },
+                     {
+                     "Generic Name": "Tramadol Hydrochloride",
+                     "Brand Name": "Ultram® (ER), Ryzolt®",
+                     "Rating": 13,
+                     "Class": "Analgesic ",
+                     "Mechanism of Action": "Not completely understood, but 2 complimentary mechanisms appear applicable: binding to mu-opioid receptors and inhibition of reuptake of norepinephrine and serotonin. "
+                     },
+                     {
+                     "Generic Name": "Potassium Chloride (oral)",
+                     "Brand Name": "Klor-Con®, K-Dur®, Micro-K®",
+                     "Rating": 14,
+                     "Class": "Electrolyte",
+                     "Mechanism of Action": "Potassium depletion may occur from increased renal excretion and/or loss through the GI tract exceeding the rate of potassium intake"
+                     },
+                     {
+                     "Generic Name": "Citalopram Hydrobromide",
+                     "Brand Name": "Celexa®",
+                     "Rating": 15,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Blocks the neuronal uptake of serotonin, but not of norepinephrine or dopamine, into human platelets in the CNS."
+                     },
+                     {
+                     "Generic Name": "Gabapentin",
+                     "Brand Name": "Neurontin®",
+                     "Rating": 16,
+                     "Class": "Anticonvulsant/Antineuralgic",
+                     "Mechanism of Action": "Exact mechanism is unknown. Exibits antiseizure ativity in mice and rats in both the maximal electroshock and pentylenetetrazole seizure models and other preclinical trials. "
+                     },
+                     {
+                     "Generic Name": "Warfarin Sodium (Crystalline)",
+                     "Brand Name": "Coumadin®, Jantoven®",
+                     "Rating": 17,
+                     "Class": "Anticoagulant",
+                     "Mechanism of Action": "Antagonizes vitamin K resulting in a decreased hepatic synthesis of the vitamin K-dependent clotting factors (II, VII, IX, X)."
+                     },
+                     {
+                     "Generic Name": "Azithromycin Dihydrate",
+                     "Brand Name": "Zithromax® & Zmax™",
+                     "Rating": 18,
+                     "Class": "Macrolide Antibiotic",
+                     "Mechanism of Action": "Binds to the 50-s ribosomal subunit of susceptible bacteria, thereby suppressing protein synthesis."
+                     },
+                     {
+                     "Generic Name": "Metoprolol Succinate",
+                     "Brand Name": "Toprol-XL™",
+                     "Rating": 19,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Cardioselective beta-1 adrenergic blocker which results in : 1) decreased heart rate and cardiac output, 2) decreased systolic and diastolic blood pressure, 3) an inhibition of isoproterenol tachycardia, 4) decreased reflex orthostatic tachycardi"
+                     },
+                     {
+                     "Generic Name": "Zolpidem Tartrate",
+                     "Brand Name": "Ambien®  & Ambien CR®",
+                     "Rating": 20,
+                     "Class": "Sedative",
+                     "Mechanism of Action": "Interacts with a GABA-BZ receptor complex and shares some of the pharmacologic properties of the benzodiazepines. Binds the omega-1 receptor subtype."
+                     },
+                     {
+                     "Generic Name": "Hydrochlorothiazide",
+                     "Brand Name": "Microzide®",
+                     "Rating": 21,
+                     "Class": "Diuretic",
+                     "Mechanism of Action": "Inhibits the reabsorption of sodium and chloride at the distal renal tubule."
+                     },
+                     {
+                     "Generic Name": "Amoxicillin Trihydrate",
+                     "Brand Name": "Amoxil®, Moxatag®, Trimox®",
+                     "Rating": 22,
+                     "Class": "Penicillin Antibiotic",
+                     "Mechanism of Action": "Inhibits bacterial wall synthesis via acylation of the transpeptidase enzyme. "
+                     },
+                     {
+                     "Generic Name": "Prednisone",
+                     "Brand Name": "Deltasone®",
+                     "Rating": 23,
+                     "Class": "Anti-inflammatory",
+                     "Mechanism of Action": "Binds to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor enters the nucleus of the cell where it reats with chromatin, or DNA where it can then inhibit the transcription of RNA."
+                     },
+                     {
+                     "Generic Name": "Meloxicam",
+                     "Brand Name": "Mobic®",
+                     "Rating": 24,
+                     "Class": "Nonsteroidal Anti-inflammatory",
+                     "Mechanism of Action": "Inhibits cyclooxygenase, resulting in decreased biosynthesis of prostaglandins."
+                     },
+                     {
+                     "Generic Name": "Sertraline Hydrochloride",
+                     "Brand Name": "Zoloft®",
+                     "Rating": 25,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "inhibtion of CNS neuronal uptake of serotonin (5-HT)"
+                     },
+                     {
+                     "Generic Name": "Montelukast Sodium",
+                     "Brand Name": "Singulair®",
+                     "Rating": 26,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Binds with high affinity and selectivity to the CysLT1 receptor where it inhibits physiologic actions of LTD4 without any agonist activity."
+                     },
+                     {
+                     "Generic Name": "Carvedilol",
+                     "Brand Name": "Coreg® & Coreg® CR",
+                     "Rating": 27,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Nonselective beta-adrenergic blocking agent with alpha-1-adrenergic blocking activity. This results in: 1) a reduction in cardiac output, 2) a reduction in exercise- and/or isoproterenol-induced tachycardia, 3) reduces reflex orthostatic tachycardia"
+                     },
+                     {
+                     "Generic Name": "Oxycodone Hydrochloride w/ Acetaminophen",
+                     "Brand Name": "Percocet®, Roxicet®, Endocet®",
+                     "Rating": 28,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Acetaminophen produces analgesia by inhibiting prostaglandin synthesis in the CNS and through a peripheral action by blocking pain impulse generation. Oxycodone produces analgesia centrally via action on the central opiate receptors."
+                     },
+                     {
+                     "Generic Name": "Clonazepam",
+                     "Brand Name": "Klonopin®",
+                     "Rating": 29,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "Facilitates the inhibitory neurotransmitter action of gamma-aminobutyric acid (GABA), which mediated both pre- and post-synaptic inhibition in all regions of the CNS. Clonazepam suppresses spike and wave discharge in absence seizures and decreases the frequency, amplitude, duration, and spread discharge of minor motor seizures."
+                     },
+                     {
+                     "Generic Name": "Cyclobenzaprine Hydrochloride",
+                     "Brand Name": "Flexeril®, Amrix®, Fexmid®",
+                     "Rating": 30,
+                     "Class": "Muscle Relaxant",
+                     "Mechanism of Action": "Acts at the brainstem in the CNS, reducing the overall effect of tonic somatic motor activity influencing both alpha and gamma motor neurons. "
+                     },
+                     {
+                     "Generic Name": "Losartan Potassium",
+                     "Brand Name": "Cozaar®",
+                     "Rating": 31,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Blocks the vasoconstrictor and aldosterone secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor found in many tissues."
+                     },
+                     {
+                     "Generic Name": "Lisinopril w/ Hydrochlorothiazide",
+                     "Brand Name": "Zestoretic®, Prinzide®",
+                     "Rating": 32,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Competitively inhibits angiotensin converting enzyme (ACE), resulting in decreased synthesis of antiontensin II and a decrease in aldosterone release. This in turn decreases sodium and water reabsorption and lowers plasma volume. ACE is also involved in the with the degradation of bradykinin (a vasodilator). HCTZ inhibits the reabsorption of sodium and chloride at the distal renal tubule. "
+                     },
+                     {
+                     "Generic Name": "Pantoprazole Sodium",
+                     "Brand Name": "Protonix®",
+                     "Rating": 33,
+                     "Class": "Gastric Antisecretory",
+                     "Mechanism of Action": "Proton pump inhibitor that suppresses the final step in gastric acid production by forming a covalent bond to two sites of the H+, K+ ATPase enzyme system at the secretory surface of the gastric parietal cell."
+                     },
+                     {
+                     "Generic Name": "Clopidogrel Bisulfate",
+                     "Brand Name": "Plavix®",
+                     "Rating": 34,
+                     "Class": "Hematological Agent",
+                     "Mechanism of Action": "Converted by CYP2C19 to its active metabolite which inhibits platelet aggregation by irreveribly modifying platelet receptors thereby selectively inhibiting the binding of adenosine diphosphate (ADP) to the receptor. This results in an inhibition of the ADP-mediated activation of of the glycoprotein GPIIb/IIIa complex and an inhibition of platelet aggregation."
+                     },
+                     {
+                     "Generic Name": "Trazodone Hydrochloride",
+                     "Brand Name": "Desyrel®",
+                     "Rating": 35,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Inhibits serotonin uptake by brain synaptosomes therefore increasing the behavioral effects of the serotonin precursor, 5-hydroxytryptophan. "
+                     },
+                     {
+                     "Generic Name": "Duloxetine Hydrochloride",
+                     "Brand Name": "Cymbalta®",
+                     "Rating": 36,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Potent inhibitor of neuronal serotonin and norepinephrine reuptake and a slight inhibitor of dopamine reuptake. Potentiates the serotonergic and noradrenergic activity in the CNS."
+                     },
+                     {
+                     "Generic Name": "Fluticasone Propionate (nasal)",
+                     "Brand Name": "Flonase™",
+                     "Rating": 37,
+                     "Class": "Antiallergy Agent",
+                     "Mechanism of Action": "Binds to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor enters the nucleus of the cell where it reats with chromatin, or DNA where it can then stimulate, or in some cases inhibit the transcription of m-RNA. This stimulation of m-RNA results in the synthesis of specific proteins and ultimately specific enzymes that carry out its antiallergy and anti-inflammatory actions. "
+                     },
+                     {
+                     "Generic Name": "Pravastatin Sodium",
+                     "Brand Name": "Pravachol®",
+                     "Rating": 38,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Specific inhibitor of HMG-CoA reductase, which is responsible for the conversion of HMG-CoA to mevalonate, an early rate limiting step in the synthesis of cholesterol. Pravachol reduces both the normal and elevated LDL concentrations. It moderately reduces triglyceride and VLDL concentrations. It can also moderately increase HDL levels."
+                     },
+                     {
+                     "Generic Name": "Fluoxetine Hydrochloride",
+                     "Brand Name": "Prozac®, Sarafem®",
+                     "Rating": 39,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Blocks the neuronal uptake of serotonin, but not of norepinephrine, into human platelets in the CNS. "
+                     },
+                     {
+                     "Generic Name": "Lorazepam",
+                     "Brand Name": "Ativan®",
+                     "Rating": 40,
+                     "Class": "Antianxiety Agent",
+                     "Mechanism of Action": "Facilitates the inhibitory neurotransmitter action of gamma-aminobutyric acid (GABA), which mediated both pre- and post-synaptic inhibition in all regions of the CNS"
+                     },
+                     {
+                     "Generic Name": "Ranitidine Hydrochloride",
+                     "Brand Name": "Zantac®",
+                     "Rating": 41,
+                     "Class": "Gastric Antisecretory",
+                     "Mechanism of Action": "Competitively and reversibly inhibits histamine at the H2 receptors, including receptors on gastic cells. It is highly selective and does not effect H1 receptors or acetylcholine. "
+                     },
+                     {
+                     "Generic Name": "Venlafaxine Hydrochloride",
+                     "Brand Name": "Effexor® (XR)",
+                     "Rating": 42,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Potentiation of neurotransmitter activity in the CNS. Shown that venlafaxine and its actiive metabolite are potent inhibitors of neuronal serotonin and norepinephrine reuptake. They are also weak inhibitors of dopamine reuptake. "
+                     },
+                     {
+                     "Generic Name": "Sulfamethoxazole w/ Trimethoprim",
+                     "Brand Name": "Bactrim®, Septra®",
+                     "Rating": 43,
+                     "Class": "Antibiotic",
+                     "Mechanism of Action": "Trimethoprim blocks the production of tetrahydrofolate reductase. Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competitive antagonism of para-aminobenzoic acid (PABA)."
+                     },
+                     {
+                     "Generic Name": "Tamsulosin Hydrochloride",
+                     "Brand Name": "Flomax®",
+                     "Rating": 44,
+                     "Class": "Prostate Anti-inflammatory",
+                     "Mechanism of Action": "Selective alpha adrenergic blocking agent for receptors found in the prostate, relaxing the prostate gland and bladder neck resulting in increased urinary flow and a reduction of BPH symptoms. "
+                     },
+                     {
+                     "Generic Name": "Rosuvastatin Calcium",
+                     "Brand Name": "Crestor®",
+                     "Rating": 45,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Selective, competitive inhibitor of HMG-CoA reductase. It increases the number of LDL receptors on the surface cell, thereby increasing uptake and catabolism of LDL and inhibits hepatic synthesis of VLDL. Rosuvastatin reduces total cholesterol, LDL-C, apo B, VLDL-C, and triglycerides and can increase HDL and apolipoprotein A-1."
+                     },
+                     {
+                     "Generic Name": "Atenolol",
+                     "Brand Name": "Tenormin®",
+                     "Rating": 46,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Cadioselective beta-1 adrenergic receptor blocker which: 1) decreases heart rate and cardiac output, 2) decreases systolic and diastolic blood pressure, 3) inhibits isoproterenol tachycardia, 4) decreases reflex orthostatic tachycardia"
+                     },
+                     {
+                     "Generic Name": "Insulin Glargine (rDNA origin)",
+                     "Brand Name": "Lantus®",
+                     "Rating": 47,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "Activates specific enzymes, promoting the transport of monosaccharides across cell membranes and facilitates the transformation of intracellular amino acids into proteins. Insulin Glargine differes in that the amino acid asparagine at position A21 is replaced by glycine and two arginines are added to the C-terminus of the B-chain. "
+                     },
+                     {
+                     "Generic Name": "Oxycodone Hydrochloride",
+                     "Brand Name": "OxyContin®, Roxicodone®",
+                     "Rating": 48,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Acts on the central opiate receptors. Respiratory depression occurs via direct action on brain stem respiratory centers. Depression of the cough reflex occurs via direct action on the cough center in the medulla. "
+                     },
+                     {
+                     "Generic Name": "Ciprofloxacin Hydrochloride",
+                     "Brand Name": "Cipro® (XR)",
+                     "Rating": 49,
+                     "Class": "Antibiotic",
+                     "Mechanism of Action": "Prevents synthesis of bacterial DNA by interfering with the enzyme DNA gyrase. "
+                     },
+                     {
+                     "Generic Name": "Cephalexin Monohydrate",
+                     "Brand Name": "Keflex®",
+                     "Rating": 50,
+                     "Class": "Cephalosporin Antibiotic",
+                     "Mechanism of Action": "Inhibits bacterial wall synthesis via acylation of the transpeptidase enzyme. "
+                     },
+                     {
+                     "Generic Name": "Fluticasone Propionate w/ Salmeterol Xinafoate (Inhalation)",
+                     "Brand Name": "Advair®",
+                     "Rating": 51,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Binds to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor enters the nucleus of the cell where it reacts with chromatin, or DNA where it can then inhibit the transcription of RNA. This inhibition leads to antiallergy and anti-inflammatory actions."
+                     },
+                     {
+                     "Generic Name": "Bupropion Hydrochloride",
+                     "Brand Name": "Wellbutrin®  (SR, XL), Zyban®",
+                     "Rating": 52,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Its actions seem to be produced by a dose related CNS stimulant effect. Weak inhibitor of neuronal uptake of norepinephrine and dopamine, and does not inhibit monoamine oxidase. It's effects are thought to be mediated by noradrenergic and/or dopaminergic mechanisms. "
+                     },
+                     {
+                     "Generic Name": "Amitriptyline Hydrochloride",
+                     "Brand Name": "Elavil®",
+                     "Rating": 53,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Inhibits the membrane pump mechanism responsible for the reuptake of norepinephrine and serotonin at the presynaptic nerve terminals, potentiating activity at the postsynaptic terminals. "
+                     },
+                     {
+                     "Generic Name": "Escitalopram Oxalate",
+                     "Brand Name": "Lexapro®",
+                     "Rating": 54,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Highly selective serotonin reuptake inhibitor which blocks the neuronal uptake of serotonin into human platelets in the CNS."
+                     },
+                     {
+                     "Generic Name": "Esomeprazole Magnesium",
+                     "Brand Name": "Nexium®",
+                     "Rating": 55,
+                     "Class": "Gastric Antisecretory",
+                     "Mechanism of Action": "Protein pump inhibitor that suppresses the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell, inhibiting the final step of acid production."
+                     },
+                     {
+                     "Generic Name": "Glimepiride",
+                     "Brand Name": "Amaryl®",
+                     "Rating": 56,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "Stimulates insulin release from beta cells in the pancreatic islets. It may also increase the sensitivity of peripheral tissues to the effects of insulin."
+                     },
+                     {
+                     "Generic Name": "Amoxicillin w/ Clavulanate Potassium",
+                     "Brand Name": "Augmentin® (XR)",
+                     "Rating": 57,
+                     "Class": "Antibiotic",
+                     "Mechanism of Action": "Inhibits bacterial wall synthesis via acylation of the transpeptidase enzyme. Clavulanic acid binds competitively to the active sites of beta-lactamase enzymes, thereby protecting penicillins and cephalosporins from destruction."
+                     },
+                     {
+                     "Generic Name": "Ipratropium Bromide w/ Albuterol Sulfate",
+                     "Brand Name": "Combivent®, DuoNeb®",
+                     "Rating": 58,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Albuterol stimulates adenyl cyclase, the enzyme which catalyzes the formation of c-AMP from ATP. Increased c-AMP is associated with relaxation of bronchial, uterine, and vascular smooth muscle through the stimulation of beta-2-adrenergic receptors. Ipratropium bromide is an anticholinergic agent which appears to inhibit vagally mediated reflexes by antagonizing the action of acetylcholine. It has anti-secretory properties and inhibits secretions from the serous and seromucous glands lining the nasal mucosa."
+                     },
+                     {
+                     "Generic Name": "Allopurinol",
+                     "Brand Name": "Zyloprim®",
+                     "Rating": 59,
+                     "Class": "Gout Agent",
+                     "Mechanism of Action": "Competitively inhibits xanthine oxidase which is the enzyme responsible for the conversion of hypoxanthine to xanthine to uric acid.  "
+                     },
+                     {
+                     "Generic Name": "Quetiapine Fumerate",
+                     "Brand Name": "Seroquel®",
+                     "Rating": 60,
+                     "Class": "Antipsychotic",
+                     "Mechanism of Action": "Multiple neurotransmitter antagonist with activity at serotonin 5HT1a and 5HT2, dopamine D1 and D2, histamine H1, and adrenergic alpha-1 and alpha-2 receptors. The mechanism of action of quitapine is thought to be due to its action at the dopamine D2 and serotonin receptors. "
+                     },
+                     {
+                     "Generic Name": "Paroxetine Hydrochloride",
+                     "Brand Name": "Paxil® (XR), Pexeva®",
+                     "Rating": 61,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Highly selective inhibitor of neuronal serotonin uptake. It weakly inhibits norepinephrine and dopamine neuronal reuptake"
+                     },
+                     {
+                     "Generic Name": "Ibuprofen",
+                     "Brand Name": "Motrin®",
+                     "Rating": 62,
+                     "Class": "Nonsteroidal Anti-inflammatory",
+                     "Mechanism of Action": "Reversible inhibition of cyclooxygenase, resulting in a decreased synthesis of prostaglandins. "
+                     },
+                     {
+                     "Generic Name": "Spironolactone",
+                     "Brand Name": "Aldactone®",
+                     "Rating": 63,
+                     "Class": "Diuretic",
+                     "Mechanism of Action": "Competitive antagonism of aldosterone, primarily at the aldosterone-dependent Na+/K+ exchange sites in the distal convoluted renal tubule."
+                     },
+                     {
+                     "Generic Name": "Diltiazem Hydrochloride",
+                     "Brand Name": "Cardizem® (CD), Cartia®, Tiazac®",
+                     "Rating": 64,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Inhibits the influx of calcium ions across specific cellular membranes (slow channels) which: 1) dilates coronary arteries and arterioles, 2) inhibits coronary spasm, 3) lowers arterial blood pressure, 4) slows SA and AV conduction, 5) prolongs AV node ERP and FRP. Antihypertensive effects is accomplished by decreasing peripheral resistance."
+                     },
+                     {
+                     "Generic Name": "Topiramate",
+                     "Brand Name": "Topamax®",
+                     "Rating": 65,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "May exert its antiepileptic activity by one or a combination of three known properties: 1) action potentials elicited repetitively by a sustained depolarization of the enurons are blocked by topiramate in a time-dependent manner, suggestive of a state-dependent sodium channel blocking action, 2) topiramate increases the frequency of GABA-A receptor activation, and enhances the ability of GABA to induce a flux of chloride ions into neurons, and 3) topiramate antagonizes the ability of kainate to activate the kainate/AMPA sutype of excitatory amino acid (glutamate) receptor."
+                     },
+                     {
+                     "Generic Name": "Glipizide",
+                     "Brand Name": "Glucotrol® (XL)",
+                     "Rating": 66,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "Stimulates insulin synthesis and release from beta cells in the pancreatic islets. May also improve binding between insulin and insulin receptors, and increase the number of insulin recceptors in the periphery."
+                     },
+                     {
+                     "Generic Name": "Morphine Sulfate (ER)",
+                     "Brand Name": "MS Contin®",
+                     "Rating": 67,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Produces analgesia by a central action on the central opiate receptor. "
+                     },
+                     {
+                     "Generic Name": "Methylphenidate Hydrochloride (IR & ER)",
+                     "Brand Name": "Ritalin®, Methylin®, Matadate®, Concerta®",
+                     "Rating": 68,
+                     "Class": "CNS Agent for ADHD",
+                     "Mechanism of Action": "Activates the brain stem arousal system and cortext to produce its stimulant effect."
+                     },
+                     {
+                     "Generic Name": "Clonidine Hydrochloride",
+                     "Brand Name": "Catapres® and Catapres® TTS",
+                     "Rating": 69,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Stimulates central alpha-adrenergic receptors resulting in inhibition of bulbar sympathetic cardioaccelerator and sympathetic vasoconstrictor centers. This results in reduced sympathetic outflow from the CNS and a decrease in peripheral resistance, renal vascular resistance, heart rate, and blood pressure. "
+                     },
+                     {
+                     "Generic Name": "Amphetamine and Dextroamphetamine Salts",
+                     "Brand Name": "Adderall® (XR)",
+                     "Rating": 70,
+                     "Class": "CNS Agent for ADHD",
+                     "Mechanism of Action": "MOA in attention deficit disorder is unkown. It adults it causes CNS stimulation by a direct action on adrenergic receptors, releasing norepinephrine from storage sites. "
+                     },
+                     {
+                     "Generic Name": "Isosorbide Mononitrate",
+                     "Brand Name": "Imdur®",
+                     "Rating": 71,
+                     "Class": "Antianginal",
+                     "Mechanism of Action": "Reduction of myocardial oxygen demand through the relaxation of vascular smooth muscle causing dilation of peripheral arteries and veins. This results in a reduction of left ventricular back pressure and more efficient blood flow within the myocardium. "
+                     },
+                     {
+                     "Generic Name": "Methylprednisolone",
+                     "Brand Name": "Medrol®",
+                     "Rating": 72,
+                     "Class": "Anti-inflammatory",
+                     "Mechanism of Action": "Binds to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor enters the nucleus of the cell where it reacts with chromatin, or DNA. The stored information then stimulates or inhibits the transcription of m-RNA. This stimulation of m-RNA results in the synthesis of specific proteins and ultimately specific enzymes that carry out its antiallergy and anti-inflammatory actions."
+                     },
+                     {
+                     "Generic Name": "Buspirone Hydrochloride",
+                     "Brand Name": "BuSpar®",
+                     "Rating": 73,
+                     "Class": "Antianxiety Agent",
+                     "Mechanism of Action": "Exact mechanism in vivo is not known. It may be due to a number of changes in brain chemistry including: 1) increasing the metabolism of norepinephrine in the locus ceruleus, 2) acting as a moderate presynaptic dopamine agonist, and 3) acting as a serotonin agonist."
+                     },
+                     {
+                     "Generic Name": "Lamotrigine",
+                     "Brand Name": "Lamictal® and Lamictal® XR",
+                     "Rating": 74,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "Exact mechanism is not known. May be due to an inhibition of voltage-sensitive socium channels, resulting in a stabilization of neuronal membranes and modulation of presynaptic transmitter release of excitatory amino acids."
+                     },
+                     {
+                     "Generic Name": "Norgestimate w/ Ethinyl Estradiol (triphasic)",
+                     "Brand Name": "Ortho Tri-Cyclen®, TriSprintec®, Trinessa®",
+                     "Rating": 75,
+                     "Class": "Contraceptive, Oral ",
+                     "Mechanism of Action": "Suppression of luteinizing hormone (LH) and follicle stimulation hormone (FSH) result in the inhibition of ovulation. Thickening of the cervical mucous and alteration of the endometrium may also contribute to their effectiveness."
+                     },
+                     {
+                     "Generic Name": "Naproxen",
+                     "Brand Name": "Naprosyn® & EC-Naprosyn®",
+                     "Rating": 76,
+                     "Class": "Nonsteroidal Anti-inflammatory",
+                     "Mechanism of Action": "Inhibition of cyclooxygenase resulting in a decreased biosynthesis of prostaglandins."
+                     },
+                     {
+                     "Generic Name": "Triamterene w/ Hydrochlorothiazide",
+                     "Brand Name": "Dyazide®, Maxzide®",
+                     "Rating": 77,
+                     "Class": "Diuretic",
+                     "Mechanism of Action": "Inhibits the reabsorption of sodium in exchange for potassium at the distal renal tubule."
+                     },
+                     {
+                     "Generic Name": "Fentanyl (transdermal)",
+                     "Brand Name": "Duragesic®",
+                     "Rating": 78,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Analgesia is produced centrally via action on the central opiate receptors. It interacts predominantly with opioid μ-receptor"
+                     },
+                     {
+                     "Generic Name": "Levofloxacin",
+                     "Brand Name": "Levaquin®",
+                     "Rating": 79,
+                     "Class": "Fluoroquinolone Antibiotic",
+                     "Mechanism of Action": "Prevents the synthesis of bacterial DNA through inhibition of the enzyme DNA gyrase."
+                     },
+                     {
+                     "Generic Name": "Tiotropium Bromide (inhalation)",
+                     "Brand Name": "Spiriva®",
+                     "Rating": 80,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Long-acting antagonist of the action of acetycholine at the M3-receptors in the smooth muscle of the bronchial tree resulting in bronchodilation."
+                     },
+                     {
+                     "Generic Name": "Ondansetron Hydrochloride",
+                     "Brand Name": "Zofran®",
+                     "Rating": 81,
+                     "Class": "Antiemetic",
+                     "Mechanism of Action": "Selective 5-HT3 receptor antagonist. It can act both peripherally and centrally, but the primary MOA in cytotoxic chemotherapy is thought to be through an inhibition of serotonin receptors in the small intestine. "
+                     },
+                     {
+                     "Generic Name": "Diazepam",
+                     "Brand Name": "Valium®",
+                     "Rating": 82,
+                     "Class": "Antianxiety Agent",
+                     "Mechanism of Action": "Facilitates the inhibitory neurotransmitter action of gamma-aminobutyric acid (GABA), which mediated both pre- and post-synaptic inhibition in all regions of the CNS"
+                     },
+                     {
+                     "Generic Name": "Propranolol Hydrochloride",
+                     "Brand Name": "Inderal® (LA), Innopran® XL",
+                     "Rating": 83,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Non-selective blockage of beta-adrenergic receptors resulting in: 1) a decreased heart rate and cardiac output, 2) a decrease in systolic and diastolic blood pressure, 3) an inhibition of isoproterenol tachycardia, 4) a decrease of reflex orthostatic tachycardia"
+                     },
+                     {
+                     "Generic Name": "Lovastatin",
+                     "Brand Name": "Mevacor®",
+                     "Rating": 84,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Hydrolyzed to its b-hydroxyacid form, becoming a specific inhibitor of HMG-CoA reductase. This enzyme is responsible for the conversioin of HMG-CoA to mevalonate, an early rate limiting step in the synthesis of cholesterol. It reduces both normal and elevated LDL concentrations and VLDL concentrations. It also increases HDL concentrations. "
+                     },
+                     {
+                     "Generic Name": "Alendronate Sodium",
+                     "Brand Name": "Fosamax®",
+                     "Rating": 85,
+                     "Class": "Osteoporosis Agent",
+                     "Mechanism of Action": "adheres to sites of bone resorption inhibiting osteoclast activity. "
+                     },
+                     {
+                     "Generic Name": "Digoxin",
+                     "Brand Name": "Lanoxin®, Digitek®",
+                     "Rating": 86,
+                     "Class": "Inotropic Agent",
+                     "Mechanism of Action": "Inhibits membrane bound Na+/K+ ATPase reulting in an increased intracellular Na+ concentration and a slightly decreased intracellular K+ concentration. The increased intracellular Na+ leads to an influx of extracellular Ca++. This results in an increase in the force and velocity of systolic contractions, a slowing heart rate, and a decreased conduction velocity through the AV node."
+                     },
+                     {
+                     "Generic Name": "Fenofibrate (nanocrystallized)",
+                     "Brand Name": "TriCor®",
+                     "Rating": 87,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Lowers total-C, LDL-C and triglycerides by activation of peroxisome proliferator activated receptor-a. Through this mechanism, fenofibrate increases lipolysis and eliination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III. Fenofibrate can also incease urinary excretion of uric acid."
+                     },
+                     {
+                     "Generic Name": "Losartan Potassium w/ Hydrochlorothiazide",
+                     "Brand Name": "Hyzaar®",
+                     "Rating": 88,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Losartan blocks the vasoconstrictor and adosterone-secreting effects of angiotensin II to the AT1 receptor found in many tissues. HCTZ inhibits the reabsorption of sodium and chloride at the distal renal tubule.  "
+                     },
+                     {
+                     "Generic Name": "Fluconazole",
+                     "Brand Name": "Diflucan®",
+                     "Rating": 89,
+                     "Class": "Antifungal",
+                     "Mechanism of Action": "Highly selective inhibitor of fungal cytochrome P-450 sterol C-14 alpha-demethylation. The loss of normal sterols correlates with the accumulation of 14 alpha-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole."
+                     },
+                     {
+                     "Generic Name": "Baclofen",
+                     "Brand Name": "Lioresal®",
+                     "Rating": 90,
+                     "Class": "Muscle Relaxant",
+                     "Mechanism of Action": "Analog of GABA and works a the spinal cord level, reducing both the flexor and extensor spasms. Its mechanism may be due to a hyperpolarization of afferent terminals resuting in an inhibition of monosynaptic and polysynaptic reflexes."
+                     },
+                     {
+                     "Generic Name": "Hydroxyzine Pamoate",
+                     "Brand Name": "Vistaril®",
+                     "Rating": 91,
+                     "Class": "Antianxiety Agent",
+                     "Mechanism of Action": "Antagonizes the H1 (histamine) receptors in the subcortical region of the central nervous system. "
+                     },
+                     {
+                     "Generic Name": "Triamcinolone Acetonide (topical)",
+                     "Brand Name": "Kenalog®",
+                     "Rating": 92,
+                     "Class": "Anti-inflammatory, Topical",
+                     "Mechanism of Action": "Binds to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor enters the nucleus of the cell where it reacts with chromatin, or DNA. The stored information then stimulates or inhibit the transcription of m-RNA. Stimulating m-RNA results in synthesis of enxymes that then carry out its antiallergy and anti-inflammatory properties."
+                     },
+                     {
+                     "Generic Name": "Divalproex Sodium",
+                     "Brand Name": "Depakote® (ER)",
+                     "Rating": 93,
+                     "Class": "Anticonvulsant/Antipsychotic",
+                     "Mechanism of Action": "Unknown, although it is thought to be related to increased brain levels of GABA. "
+                     },
+                     {
+                     "Generic Name": "Celecoxib",
+                     "Brand Name": "Celebrex®",
+                     "Rating": 94,
+                     "Class": "Nonsteroidal Anti-inflammatory",
+                     "Mechanism of Action": "Inhibits prostaglandin synthesis through inhibition of COX-2."
+                     },
+                     {
+                     "Generic Name": "Valsartan",
+                     "Brand Name": "Diovan®",
+                     "Rating": 95,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Potent vasoconstrictor as well as stimulating aldosterone secretion by the adrenal cortex. It blocks vasocontrictor and aldosterone secreting effects of angiotensin II by selectively blocking the binding of ANGII to the AT1 receptor in many tissues. "
+                     },
+                     {
+                     "Generic Name": "Mirtazapine",
+                     "Brand Name": "Remeron®",
+                     "Rating": 96,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "May be due to its action as an antagonist of central presynaptic alpha-2 adrenergic inhibitory autoreceptors and heteroreceptors. It is also a potent antagonist of serotonin 5HT2 and 5HT3 receptors. It is also a potent inhibitor of histamine H1 receptors and a moderate inhibitor of adrenergic alpha-1 and muscarinic receptors. "
+                     },
+                     {
+                     "Generic Name": "Nifedipine",
+                     "Brand Name": "Procardia®(XL),Nifedical® XL, Adalet CC®",
+                     "Rating": 97,
+                     "Class": "Antihypertensive/Antianginal",
+                     "Mechanism of Action": "Inhibits the influx of calcium ions across specific cellular membranes (slow channels) which: 1) dilates coronary arteries and arterioles, 2) inhibits coronary spasm, 3) dilation of peripheral arterioles which lowers peripheral resistance."
+                     },
+                     {
+                     "Generic Name": "Ropinirole Hydrochloride",
+                     "Brand Name": "Requip® (XL)",
+                     "Rating": 98,
+                     "Class": "Antiparkinson Agent",
+                     "Mechanism of Action": "Non-ergoline dopamine agonist with full intrinsic activity at the D2 and D3 dopamine receptor subtypes. "
+                     },
+                     {
+                     "Generic Name": "Risperidone",
+                     "Brand Name": "Risperdal®",
+                     "Rating": 99,
+                     "Class": "Antipsychotic",
+                     "Mechanism of Action": "Unknown, but thought to act by direct antagonism of dopamine (D2) and serotonin (5HT2) receptors in the central nervous system. It also produces antagonism of alpha-1, alpha-2, and H-1 histaminergic receptors. "
+                     },
+                     {
+                     "Generic Name": "Temazepam",
+                     "Brand Name": "Restoril®",
+                     "Rating": 100,
+                     "Class": "Sedative",
+                     "Mechanism of Action": "Facilitates the inhibitory neurotransmitter action of gamma-aminobutyric acid (GABA), which mediated both pre- and post-synaptic inhibition in all regions of the CNS"
+                     },
+                     {
+                     "Generic Name": "Oxybutynin Chloride (oral)",
+                     "Brand Name": "Ditropan®& Ditropan® XL",
+                     "Rating": 101,
+                     "Class": "Urinary Bladder Modifier",
+                     "Mechanism of Action": "Inhibits the muscarinic action of acetylcholine on smooth muscle. It relaxes bladder smooth muscle which decreases urgency, frequency, urinary leakage, and dysuria."
+                     },
+                     {
+                     "Generic Name": "Valsartan w/ Hydrochlorothiazide",
+                     "Brand Name": "Diovan-HCT®",
+                     "Rating": 102,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Blocks the vasoconstrictor and aldosterone secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor found in many tissues. HCTZ inhibits the reabsorption of sodium and chlorie at the distal renal tubule."
+                     },
+                     {
+                     "Generic Name": "Hydromorphone HCl",
+                     "Brand Name": "Dilaudid®",
+                     "Rating": 103,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Pure opioid agonist - analgesia is produced centrally via action on the central opiate receptors. "
+                     },
+                     {
+                     "Generic Name": "Estradiol (topical)",
+                     "Brand Name": "Vivelle-Dot®",
+                     "Rating": 104,
+                     "Class": "Hormone / Estrogen",
+                     "Mechanism of Action": "Releases 17-b-estradiol to the skin over a constant period of time, promoting growth and development of the vagina, uterus, and fallopian tubes."
+                     },
+                     {
+                     "Generic Name": "Norgestimate and Ethinyl Estradiol",
+                     "Brand Name": "Ortho-Cyclen®, Sprintec®",
+                     "Rating": 105,
+                     "Class": "Contraceptive, Oral ",
+                     "Mechanism of Action": "Suppression of luteinizing hormone (LH) and follicle stimulation hormone (FSH) resulting in the inhibition of ovulation. Thickening of cervical mucous and alteration of the endometrium may also contribute to their effectiveness. "
+                     },
+                     {
+                     "Generic Name": "Doxycycline Hyclate",
+                     "Brand Name": "Vibramycin®",
+                     "Rating": 106,
+                     "Class": "Antibiotic",
+                     "Mechanism of Action": "Prevents bacterial protein synthesis by competitively binding to the 30 S ribosomal subunit. "
+                     },
+                     {
+                     "Generic Name": "Pregabalin",
+                     "Brand Name": "Lyrica®",
+                     "Rating": 107,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "May be related to its high binding affinity to the alpha(2)-delta site in CNS tissues. May also increase the density of GABA transporters protein and increase the rate of functional GABA transport. "
+                     },
+                     {
+                     "Generic Name": "Verapamil Hydrochloride",
+                     "Brand Name": "Isoptin®, Calan®, Verelan®",
+                     "Rating": 108,
+                     "Class": "Antihypertensive/Antianginal",
+                     "Mechanism of Action": "Inhibits the influx of calcium ions across specific cellular membranes (slow channels) which: 1) dilates coronary arteries and arterioles, 2) inhibits coronary spasm, 3) lowers arterial blood pressure, 4) slows SA and AV conduction, 5) prolongs AV node ERP and FRP"
+                     },
+                     {
+                     "Generic Name": "Promethazine HCl",
+                     "Brand Name": "Phenergan®",
+                     "Rating": 109,
+                     "Class": "Antiemetic",
+                     "Mechanism of Action": "Competitively inhibts hisatmine at the H1 receptor site causing a spasmolytic and decongestant effect. "
+                     },
+                     {
+                     "Generic Name": "Aripiprazole",
+                     "Brand Name": "Abilify®",
+                     "Rating": 110,
+                     "Class": "Antipsychotic",
+                     "Mechanism of Action": "Exact mechanism is unknown, although it may be due to a combination of partial agonist activity at dopamine D2 and serotonin 5-HT1A receptors and antagonist activity at 5-HT2A receptors."
+                     },
+                     {
+                     "Generic Name": "Benazepril Hydrochloride",
+                     "Brand Name": "Lotensin®",
+                     "Rating": 111,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Thought to be due to its suppression of the renin-angiotensin-aldosterone system by competitively inhibiting the angiotensin-converting enzyme (ACE). This leads to decreased plasma ANGII and decreased aldosterone secretion. This can cause an increase in serum potassium and decrease in peripheral arterial resistance. "
+                     },
+                     {
+                     "Generic Name": "Donepezil Hydrochloride",
+                     "Brand Name": "Aricept™",
+                     "Rating": 112,
+                     "Class": "Alzheimer's Dementia Agent",
+                     "Mechanism of Action": "Acetylcholinesterase inhibitor that works centrally to increase the amount of acetylcholine available at cholinergic synapses. "
+                     },
+                     {
+                     "Generic Name": "Enalapril Maleate",
+                     "Brand Name": "Vasotec®",
+                     "Rating": 113,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Suppresses the renin-angiotensin-aldosterone system leading to reduction of peripheral arterial resistance and an increase in caridac output. "
+                     },
+                     {
+                     "Generic Name": "Budesonide and Formoterol Fumarate Dihydrate (Inhalation)",
+                     "Brand Name": "Symbicort®",
+                     "Rating": 114,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Budesonide shows inhibitory activities against multiple cell types and mediators. Formoterol through stimulation of adenyl cyclase, relaxes smooth muscle and inhibits the release of mast cell mediators such as histamine and leukotrienes. "
+                     },
+                     {
+                     "Generic Name": "Amlodipine Besylate w/ Benazepril Hydrochloride",
+                     "Brand Name": "Lotrel®",
+                     "Rating": 115,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Amlodipine inhibits the influx of calcium ions across specific cellular membranes (slow channels) which: 1) dilates coronary arteries and arterioles, 2) inhibits coronary spasm, 3) dilation of peripheral arterioles which lowers peripheral resistance, 3) an inhibition of coronary spasm. Benazepril's mechanism is thought to be due to its suppression RAAS by inhibiting ACE and decreasing peripheral arterial resistance."
+                     },
+                     {
+                     "Generic Name": "Nitroglycerin (sublingual & injectable)",
+                     "Brand Name": "Nitrostat®, Nitroquick®",
+                     "Rating": 116,
+                     "Class": "Antianginal",
+                     "Mechanism of Action": "Reduction of myocardial oxygen demand through the relaxation of vascular smooth muscle. This results in a reduction of left ventricular back pressure and more efficient blood flow within the myocardium. "
+                     },
+                     {
+                     "Generic Name": "Polyethylene Glycol 3350, NF",
+                     "Brand Name": "Miralax™, Glycolax®",
+                     "Rating": 117,
+                     "Class": "Laxative",
+                     "Mechanism of Action": "Causes water retention in the stool; increases stool frequency"
+                     },
+                     {
+                     "Generic Name": "Lansoprazole",
+                     "Brand Name": "Prevacid®",
+                     "Rating": 118,
+                     "Class": "Gastric Antisecretory",
+                     "Mechanism of Action": "Inhibits the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell and blocks the final step of acid production."
+                     },
+                     {
+                     "Generic Name": "Phentermine Hydrochloride",
+                     "Brand Name": "Adipex-P®, Ionamin®",
+                     "Rating": 119,
+                     "Class": "Weight Management",
+                     "Mechanism of Action": "Appetite reduction is secondary to central nervous system stimulation."
+                     },
+                     {
+                     "Generic Name": "Cefidinr",
+                     "Brand Name": "Omnicef®",
+                     "Rating": 120,
+                     "Class": "Cephalosporin Antibiotic",
+                     "Mechanism of Action": "Inhibits bacterial cell wall synthesis via acylation of the transpeptidase enzyme. "
+                     },
+                     {
+                     "Generic Name": "Sitagliptin Phosphate",
+                     "Brand Name": "Januvia®",
+                     "Rating": 121,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "Inhibits the dipeptidyl peptidase-4 (DDP-4) enzyme, increasing insulin and decreasing glucagon in response to elevated blood glucose. "
+                     },
+                     {
+                     "Generic Name": "Ramipril",
+                     "Brand Name": "Altace®",
+                     "Rating": 122,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Thought to be due to its suppression of the renin-angiotensin-aldosterone system by competitively inhibiting the angiotensin-converting enzyme (ACE). This leads to decreased plasma ANGII and decreased aldosterone secretion. This can cause an increase in serum potassium and decrease in peripheral arterial resistance. "
+                     },
+                     {
+                     "Generic Name": "Ezetimibe",
+                     "Brand Name": "Zetia®",
+                     "Rating": 123,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Selectively inhibits the intestinal absorption of cholesterol and related phytosterols. It works at the brush border of the small intestine to inhibit cholesterol absorption thereby decreasing the delivery of cholesterol to the liver."
+                     },
+                     {
+                     "Generic Name": "Acetaminophen w/ Codeine Phosphate",
+                     "Brand Name": "Tylenol®,  (w/ Codeine)",
+                     "Rating": 124,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Acetaminophen produces analgesia by inhibiting postaglandin synthesis in the CNS and through a peripheral action by blocking pain impulse generation. Codeine is a weak μ-opiate receptor agonist and the majortiy of its analgesic effect is due to metabolism of morphine."
+                     },
+                     {
+                     "Generic Name": "Insulin Lispro (rDNA Origin)",
+                     "Brand Name": "Humalog®",
+                     "Rating": 125,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "In adipose and muscle tissue, insulin activates specific enzymes, promotes the transport of monosaccharides across cell membranes and facilitates the transformation of intracellular amino acids into proteins. Insulin also decreases the formation of triglycerides."
+                     },
+                     {
+                     "Generic Name": "Vitamin D, Ergocalciferol",
+                     "Brand Name": "Drisdol®",
+                     "Rating": 126,
+                     "Class": "Vitamin",
+                     "Mechanism of Action": "Involved in the absorption of calcium and phosphorus from the small intestine thereby providing the necessary levels of calcium and phosphate in the plasma to promote bone mineralization.  "
+                     },
+                     {
+                     "Generic Name": "Lisdexamfetamine Dimesylate",
+                     "Brand Name": "Vyvanse®",
+                     "Rating": 127,
+                     "Class": "CNS Agent for ADHD",
+                     "Mechanism of Action": "Prodrug of dextroamphetamine. Dextroamphetamine's mechanism is unknown in ADHD. In adults it causes CNS stimulation by a direct action on adrenergic receptors, releasing norepinephrine from storage sites."
+                     },
+                     {
+                     "Generic Name": "Diclofenac Sodium (oral)",
+                     "Brand Name": "Voltaren® (XR)",
+                     "Rating": 128,
+                     "Class": "Nonsteroidal Anti-inflammatory",
+                     "Mechanism of Action": "Exact mechanism is unknown. It may be due to decreased prostaglandins, thromboxanes, and prostacyclin formation through an inhibition of cyclooxygenase, an early component of the arachidonic acid cascade. "
+                     },
+                     {
+                     "Generic Name": "Tizanidine Hydrochloride",
+                     "Brand Name": "Zanaflex®",
+                     "Rating": 129,
+                     "Class": "Muscle Relaxant",
+                     "Mechanism of Action": "Agonist at alpha-2-adrenergic recpetor sites and presumable reduces spasticity by increasing presynaptic inhibition of motor neurons"
+                     },
+                     {
+                     "Generic Name": "Latanoprost",
+                     "Brand Name": "Xalatan® ",
+                     "Rating": 130,
+                     "Class": "Glaucoma Agent",
+                     "Mechanism of Action": "Prostanoid selective FP receptor agonist which is believed to reduce the intraocular pressure by increasing the outflow of aqueous humor."
+                     },
+                     {
+                     "Generic Name": "Benzonatate",
+                     "Brand Name": "Tessalon®",
+                     "Rating": 131,
+                     "Class": "Antitussive",
+                     "Mechanism of Action": "Acts peripherally by anesthetizing the stretch receptors located in the respiratory passage, lungs, and pleura by dampening their activity and thereby reducing the cough reflux at its source. "
+                     },
+                     {
+                     "Generic Name": "Clindamycin Hydrochloride (oral)",
+                     "Brand Name": "Cleocin®",
+                     "Rating": 132,
+                     "Class": "Antibiotic",
+                     "Mechanism of Action": "Binds to the 50 S subunit of susceptible bacterial ribosomes and suppresses protein synthesis. "
+                     },
+                     {
+                     "Generic Name": "Insulin Aspart, (rDNA origin)",
+                     "Brand Name": "Novolog®",
+                     "Rating": 133,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "In adipose and muscle tissue, insulin activates specific enzymes, promotes the transport of monosaccharides across cell membranes and facilitates the transformation of intracellular amino acids into proteins. Insulin also decreases the formation of triglycerides. Insulin aspart is synthesized by recombinant DNA using Saccharomyces cerevisiae. "
+                     },
+                     {
+                     "Generic Name": "Carisoprodol",
+                     "Brand Name": "Soma®",
+                     "Rating": 134,
+                     "Class": "Muscle Relaxant",
+                     "Mechanism of Action": "May work centrally in the spinal cord or the descending reticular formation to produce muscle relaxation. "
+                     },
+                     {
+                     "Generic Name": "Nebivolol Hydrochloride",
+                     "Brand Name": "Bystolic®",
+                     "Rating": 135,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Primarily a beta-1-adrenergic blocker. In poor metabolizers and at higher doses, nebivolol is both a beta-1 and beta-2-adrenergic blocker. Beta-blockade causes decreased heart rate, decreased myocardial contractibility, vasodilation, and decreased peripheral resistance, suppression of renin activity, and diminution of tonic sympathetic outflow to the periphery from cerebral vasomotor centers."
+                     },
+                     {
+                     "Generic Name": "Pramipexole Dihydrochloride",
+                     "Brand Name": "Mirapex®",
+                     "Rating": 136,
+                     "Class": "Antiparkinson Agent",
+                     "Mechanism of Action": "Nonergot dopamine receptor agonist with a higher affinity to D3 dopamine receptors than D2 and D1 receptors. The principle site of action for the treatment of Parkinson's disease appears to be in the striatum and the substantia nigra. The mechanism of action in RLS is also thought to be associated with the dopaminergic system. "
+                     },
+                     {
+                     "Generic Name": "Gemfibrozil",
+                     "Brand Name": "Lopid®",
+                     "Rating": 137,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Decreases serum triglycerides and VLDL-cholesterol and increases HDL-cholesterol. Reduction of triglycerides is due to inhibition of peripheral lipolysis and reduction of hepatic extraction of free fatty acids. Reduction of VLDL-cholesterol is due to an inhibition of the synthesis of VLDL carrier apolipoprotein B."
+                     },
+                     {
+                     "Generic Name": "Famotidine",
+                     "Brand Name": "Pepcid®",
+                     "Rating": 138,
+                     "Class": "Gastric Antisecretory",
+                     "Mechanism of Action": "Competitively inhibits histamine at the H2 receptors, including receptors on gastric cells. This inhibition is reversible. "
+                     },
+                     {
+                     "Generic Name": "Folic Acid",
+                     "Brand Name": "Folic Acid",
+                     "Rating": 139,
+                     "Class": "Vitamin",
+                     "Mechanism of Action": "Important vitamin required for the synthesis of thymidylate, synthesis of purine nucleotides, and for the maintenance of normal erythropoiesis. It stimulates WBC and platelet production in folate deficiency anemia. "
+                     },
+                     {
+                     "Generic Name": "Chlorpheniramine w/ Hydrocodone",
+                     "Brand Name": "Tussionex®",
+                     "Rating": 140,
+                     "Class": "Antitussive",
+                     "Mechanism of Action": "Hydrocodone depresses the cough reflex center in the medulla oblongota. Chlorpheniramine is an H1 histamine receptor antagonist which possesses anticholinergic activity."
+                     },
+                     {
+                     "Generic Name": "Metoclopramide Hydrochloride",
+                     "Brand Name": "Reglan®",
+                     "Rating": 141,
+                     "Class": "Antiemetic",
+                     "Mechanism of Action": "Metoclopramide's mechanism as an antiemetic is due to an inhibition of dopamine receptors which results in decreased nerve transmission from afferent nerves to the vomiting center threshold. Its mechanism as a GI motility stimulant is thought to be caused by an imbalance between dopaminergic and cholinergic actions in the GI tract through inhibition of dopamine induced gastric smooth muscle relaxation. This leads to increased GI smooth muscle response to acetylcholine."
+                     },
+                     {
+                     "Generic Name": "Nitrofurantoin",
+                     "Brand Name": "Macrodantin® & Macrobid®",
+                     "Rating": 142,
+                     "Class": "Antibacterial",
+                     "Mechanism of Action": "May be due to an inhibition of acetyl-coenzyme A, interfering with the metabolism of carbohydrates in susceptible bacteria. "
+                     },
+                     {
+                     "Generic Name": "Oseltamivir Phosphate",
+                     "Brand Name": "Tamiflu®",
+                     "Rating": 143,
+                     "Class": "Antiviral",
+                     "Mechanism of Action": "Thought to be due to inhibition of influenza virus neuraminidase and possibly through alteration of virus particle aggregation and release."
+                     },
+                     {
+                     "Generic Name": "Sumatriptan Succinate",
+                     "Brand Name": "Imitrex™",
+                     "Rating": 144,
+                     "Class": "Antimigrainous Agent",
+                     "Mechanism of Action": "Selective agonist for a vascular 5-hydroxytrptamine 1 receptor subtype with no significant affinity or pharmacological activity at other receptors including 5-HT2, 5-HT3, alpha1, alpha2, beta-adrenergic, dopamine 1 and 2, muscarinic, or benzodiazepine receptors."
+                     },
+                     {
+                     "Generic Name": "Minocycline Hydrochloride",
+                     "Brand Name": "Minocin®",
+                     "Rating": 145,
+                     "Class": "Tetracycline Antibiotic",
+                     "Mechanism of Action": "Prevents protein synthesis by competitively binding to the 30 S ribosomal subunits of bacteria. It is bacteriostatic at normal dosage ranges. "
+                     },
+                     {
+                     "Generic Name": "Levetiracetam",
+                     "Brand Name": "Keppra® ",
+                     "Rating": 146,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "Precise mechanism is unknown. It is a pyrolidine derivative and is chemically unrelated to existing antiepileptic drugs. In animal models it protects against pulocarpine and kainic acid-induced secondary generalized activity from focal seizures. It also inhibits burst firing in the hippocampus without affecting normal neuronal excitability. This may prevent propagation of seizure activity. "
+                     },
+                     {
+                     "Generic Name": "Thyroid, dessicated",
+                     "Brand Name": "Armour® Thyroid",
+                     "Rating": 147,
+                     "Class": "Hormone / Thyroid",
+                     "Mechanism of Action": "The exact mechanism of action for thyroid is unknown although it is thought to be due to protein synthesis control, resulting in: 1) a regulation of growth and development, 2) an increase in metabolic rate, 3) inhibition of the secretion of thyrotropin by the pituitary, and 4) various effects on lipid and carbohydrate metabolism."
+                     },
+                     {
+                     "Generic Name": "Butalbital, Acetaminophen and Caffeine",
+                     "Brand Name": "Fioricet®",
+                     "Rating": 148,
+                     "Class": "Analgesic",
+                     "Mechanism of Action": "Acetaminopen produces analgesia by inhibiting postaglandin synthesis in the CNS and through a peripheral action by blocking pain impulse generation. Butalbital produces sensory cortex depression through inhibition of conduction in the reticular formation at the level of the thalamus. Caffeine produces CNS stimulation by inhibition of phosphodiasterase which increases the accumlation of c-AMP.  "
+                     },
+                     {
+                     "Generic Name": "Estrogens (Conjugated)",
+                     "Brand Name": "Premarin®",
+                     "Rating": 149,
+                     "Class": "Hormone / Estrogen",
+                     "Mechanism of Action": "Enter cells of responsive tissues (female genital organs, breasts, hypothalamus, pituitary) and are transported into the nucleus. Inside the cell nucleus, estrogens stimulate specific RNA and protein synthesis. Estrogens also decrease the release of follicle-stimulating hormone (FSH), leuteinzing hormone (LH), and luteotropic hormone due to an effect on the pituitary or hypothalamus. "
+                     },
+                     {
+                     "Generic Name": "Amiodarone",
+                     "Brand Name": "Pacerone® , Cordarone®",
+                     "Rating": 150,
+                     "Class": "Antiarrhythmic",
+                     "Mechanism of Action": "Lengthening of the cardiac action potential. It also shows some noncompetitive alpha- and beta-blocking capabilities and negative chronotropic effects."
+                     },
+                     {
+                     "Generic Name": "Codeine Phosphate w/ Guaifenesin",
+                     "Brand Name": "Mytussin AC®, Robitussin® AC",
+                     "Rating": 151,
+                     "Class": "Antitussive / Expectorant",
+                     "Mechanism of Action": "Guaifenesin lower respiratory tract drainage by thinning bronchial secretions, lubricating irritated respiratory tract membranes through increased mucous flow, and facilitating removal of viscous, inspissated mucous. Codeine depresses the cough reflex center in the medulla oblongata."
+                     },
+                     {
+                     "Generic Name": "Levonorgestrel w/ Ethinyl Estradiol",
+                     "Brand Name": "Alesse®, Aviane®",
+                     "Rating": 152,
+                     "Class": "Contraceptive, Oral ",
+                     "Mechanism of Action": "Suppression of luteinizing hormone (LH) and follicle stimulation hormone (FSH) resulting in the inhibition of ovulation. Thickening of cervical mucous and alteration of the endometrium may also contribute to their effectiveness. "
+                     },
+                     {
+                     "Generic Name": "Nystatin (topical)",
+                     "Brand Name": "Nystop®",
+                     "Rating": 153,
+                     "Class": "Antifungal, Topical",
+                     "Mechanism of Action": "Binds to sterols in the cell membrane of susceptible candida species and changes the permeability of the cell membrane. It is both fungicidal and fungistatic against many fungi. "
+                     },
+                     {
+                     "Generic Name": "Valacyclovir Hydrochloride",
+                     "Brand Name": "Valtrex®",
+                     "Rating": 154,
+                     "Class": "Antiviral",
+                     "Mechanism of Action": "Rapidly converted to acyclovir by first-pass intenstinal and/or hepatic metabolism. Acyclovir is a synthetic acyclic purine nucleotide which in vitro inhibits herpes simplex types 1 and 2, varicella-zoster, epstein-barr, and cytomegalovirus. In vitro, the inhibitory activity of acyclovir is highly selective for HSV. Acyclovir is preferentially taken up and converted to the active triphosphate form by HSV infected cells which then interferes with the HSV DNA polymerase and inhibits viral DNA replication. In vitro, as the acyclovir triphosphate is incorporated into the growing chains of DNA by viral and cellular DNA polymerase, the DNA chain is terminated. "
+                     },
+                     {
+                     "Generic Name": "Finasteride",
+                     "Brand Name": "Proscar®",
+                     "Rating": 155,
+                     "Class": "Prostate Anti-inflammatory",
+                     "Mechanism of Action": "Competitively inhibits the enzyme 5-alpha-reductase which is responsible for metabolizing testosterone to 5-alpha-dihydrotestosterone (DHT) in the prostate gland, liver and skin. "
+                     },
+                     {
+                     "Generic Name": "Hydroxyzine Hydrochloride",
+                     "Brand Name": "Atarax®",
+                     "Rating": 156,
+                     "Class": "Antianxiety Agent",
+                     "Mechanism of Action": "Antagonizes the H1 (histamine) receptors in peripheral tissues. "
+                     },
+                     {
+                     "Generic Name": "Carbidopa w/ Levodopa",
+                     "Brand Name": "Sinemet® (CR)",
+                     "Rating": 157,
+                     "Class": "Antiparkinson Agent",
+                     "Mechanism of Action": "Levodopa crosses the blood brain barrier and is converted into dopamine in the basal ganglia. Carbidopa inhibits the dopa-decarboxylase in extracerebral tissue, thereby increasing the levels of levodopa available to the CNS. "
+                     },
+                     {
+                     "Generic Name": "Memantine Hydrochloride",
+                     "Brand Name": "Namenda®",
+                     "Rating": 158,
+                     "Class": "Alzheimer's Dementia Agent",
+                     "Mechanism of Action": "A low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist. Binds preferentially to the NMDA receptor-operated cation channels. Does show antagonistic effects at 5HT3 receptor and a slight inhibition of nicotinic acetylcholine receptors. "
+                     },
+                     {
+                     "Generic Name": "Metronidazole",
+                     "Brand Name": "Flagyl®",
+                     "Rating": 159,
+                     "Class": "Antibacterial / Antiprotozoal",
+                     "Mechanism of Action": "Metronidazole is reduced by electron-transport proteins of susceptible bacteria to unstable intermediate compounds which bind to DNA causing DNA strand breakage and cell death. "
+                     },
+                     {
+                     "Generic Name": "Mupirocin (topical)",
+                     "Brand Name": "Bactroban®",
+                     "Rating": 160,
+                     "Class": "Antibiotic",
+                     "Mechanism of Action": "Inhibition of bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase. "
+                     },
+                     {
+                     "Generic Name": "Glyburide",
+                     "Brand Name": "Micronase®, DiaBeta®",
+                     "Rating": 161,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "Stimulates insulin synthesis and release from beta cells in the pancreatic islets. May also improve binding between insulin and insulin receptors and increase the number of insulin receptors in the periphery."
+                     },
+                     {
+                     "Generic Name": "Methotrexate Sodium",
+                     "Brand Name": "Trexall®",
+                     "Rating": 162,
+                     "Class": "Antineoplastic",
+                     "Mechanism of Action": "Inhibitor of dihydrofolic acid reductase. Methotrexate interferes with DNA synthesis, repair and cellular replication."
+                     },
+                     {
+                     "Generic Name": "Mometasone Furoate Monohydrate (intranasal)",
+                     "Brand Name": "Nasonex®",
+                     "Rating": 163,
+                     "Class": "Antiallergy Agent",
+                     "Mechanism of Action": "Adrenocorticoids bind to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor complex enters the nucleus of the cell where it reacts with chromatin, or DNA. The steroid then uses stored information to stimulate or inhibit the transcription of m-RNA. The stimulation of m-RNA results in the synthesis of specific enzymes that carry out its antiallergy and anti-inflammatory actions."
+                     },
+                     {
+                     "Generic Name": "Sucralfate",
+                     "Brand Name": "Carafate®",
+                     "Rating": 164,
+                     "Class": "Antiulcer Agent",
+                     "Mechanism of Action": "Works via the formation of an ulcer-adherent complex that covers the ulcer site and protects it against further attack by acid, pepsin, and bile attributed to the neutralization of gastric acid. "
+                     },
+                     {
+                     "Generic Name": "Dicyclomine Hydrochloride",
+                     "Brand Name": "Bentyl®",
+                     "Rating": 165,
+                     "Class": "Antispasmodic",
+                     "Mechanism of Action": "Causes inhibition of acetylcholine at postganglionic parasympathetic receptor sites in smooth muscle, secretory gland tissue, and to a lesser degree in the CNS. "
+                     },
+                     {
+                     "Generic Name": "Methocarbamol",
+                     "Brand Name": "Robaxin®",
+                     "Rating": 166,
+                     "Class": "Muscle Relaxant",
+                     "Mechanism of Action": "Inhibits the flexor and crossed extensor reflexes at the level of the spinal cord. "
+                     },
+                     {
+                     "Generic Name": "Buprenorphine HCl w/ Naloxone HCl",
+                     "Brand Name": "Suboxone®",
+                     "Rating": 167,
+                     "Class": "Opioid Dependence Agent",
+                     "Mechanism of Action": "Partial opioid agonist/antagonist. It is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor. Naloxone is an antagonist at the mu-opioid receptor. Buprenorphine produces opioid agonist effects similar to methadone and hydromorphone but with a ceiling effect."
+                     },
+                     {
+                     "Generic Name": "Acyclovir",
+                     "Brand Name": "Zovirax®",
+                     "Rating": 168,
+                     "Class": "Antiviral",
+                     "Mechanism of Action": "Preferentially taken up and converted to the active triphosphate form by HSV infected cells, which then interferes with the HSV DNA polymerase and inhibits viral DNA replication. "
+                     },
+                     {
+                     "Generic Name": "Drospirenone w/ Ethinyl Estradiol (21)",
+                     "Brand Name": "Yasmin®, Ocella®",
+                     "Rating": 169,
+                     "Class": "Contraceptive, Oral ",
+                     "Mechanism of Action": "Suppression of luteinizing hormone (LH) and follicle stimulation hormone (FSH) resulting in the inhibition of ovulation. Thickening of cervical mucous and alteration of the endometrium may also contribute to their effectiveness. "
+                     },
+                     {
+                     "Generic Name": "Olmesartan Medoxomil",
+                     "Brand Name": "Benicar®",
+                     "Rating": 170,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Prodrug which is hydrolyzed to olmesartan during absorption from GI tract. Blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by blocking binding of angiotensin II  at the AT-1 receptor. "
+                     },
+                     {
+                     "Generic Name": "Cefuroxime Axetil",
+                     "Brand Name": "Ceftin®",
+                     "Rating": 171,
+                     "Class": "Cephalosporin Antibiotic",
+                     "Mechanism of Action": "Inhibits bacterial cell wall synthesis via acylation of the transpeptidase enzyme. "
+                     },
+                     {
+                     "Generic Name": "Carbamazepine",
+                     "Brand Name": "Tegretol®(XR), Carbatrol® ER, Equetrol® ER",
+                     "Rating": 172,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "Reduces polysynaptic responses and blocks the post-tetanic potentiation. "
+                     },
+                     {
+                     "Generic Name": "Lidocaine (Transdermal)",
+                     "Brand Name": "Lidoderm®",
+                     "Rating": 173,
+                     "Class": "Topical Analgesic",
+                     "Mechanism of Action": "Exhibits neuronal membrane-stabilizing properties by combining with fast sodium channels during their inactive state to inhibit repolarization. "
+                     },
+                     {
+                     "Generic Name": "Nortriptyline Hydrochloride",
+                     "Brand Name": "Pamelor®",
+                     "Rating": 174,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Inhibits the membrane pump mechanism responsible for the reuptake of norepinephrine and serotonin at the presynptic nerve terminals, potentiating activity at the postynaptic terminals. Also inhibits action of histamine and acetylcholine. "
+                     },
+                     {
+                     "Generic Name": "Phenytoin Sodium (Extended)",
+                     "Brand Name": "Dilantin® Kapseals® ",
+                     "Rating": 175,
+                     "Class": "Anticonvulsant",
+                     "Mechanism of Action": "Increases extrusion of sodium ions from neurons and cardiac myocytes. This produces a stabilization of the excitable membrane to repetitive stimuli. "
+                     },
+                     {
+                     "Generic Name": "Hydroxychloroquine Sulfate",
+                     "Brand Name": "Plaquenil®",
+                     "Rating": 176,
+                     "Class": "Rheumatoid Arthritis Agent",
+                     "Mechanism of Action": "Mechanism is unknown. May raise pH of certain components in sensitive parasites and interfere with lysosomal degradation of hemoglobin. "
+                     },
+                     {
+                     "Generic Name": "Pioglitazone Hydrochloride",
+                     "Brand Name": "Actos®",
+                     "Rating": 177,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "TZD antidiabetic agent that decreases insulin resistance by improving target cell response to insulin. Thought to act by binding to peroxisome proliferator-activated receptor-gamma (PPAR) that regulate the transcription of a number of insulin responsive genes critical for the control of glucose and lipid metabolism. Requires insulin for activity."
+                     },
+                     {
+                     "Generic Name": "Terazosin Hydrochloride",
+                     "Brand Name": "Hytrin®",
+                     "Rating": 178,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Competitively blocks alpha-1 adrenoreceptors, thus decreasing total peripheral resistance resulting in decreased blood pressure"
+                     },
+                     {
+                     "Generic Name": "Torsemide",
+                     "Brand Name": "Demadex®",
+                     "Rating": 179,
+                     "Class": "Diuretic",
+                     "Mechanism of Action": "Acts from within the lumen of the thick ascending portion of the loop of henle, where it inhibits the Na+/K+/2Cl- carrier system. Increases the urinary excretion of sodium, chloride, and water."
+                     },
+                     {
+                     "Generic Name": "Niacin (ER)",
+                     "Brand Name": "Niaspan®",
+                     "Rating": 180,
+                     "Class": "Antihyperlipidemic",
+                     "Mechanism of Action": "Increases lipoprotein lipase activity, decreases lipolysis in adipose tissue, and decreases esterification of triglycerides in the liver. Niacin functions in the body after conversion to nicotinamide adenine dinucleotide (NAD)."
+                     },
+                     {
+                     "Generic Name": "Solifenacin Succinate",
+                     "Brand Name": "Vesicare®",
+                     "Rating": 181,
+                     "Class": "Urinary Bladder Modifier",
+                     "Mechanism of Action": "Competitive muscarinic receptor antagonist."
+                     },
+                     {
+                     "Generic Name": "Olanzapine",
+                     "Brand Name": "Zyprexa®",
+                     "Rating": 182,
+                     "Class": "Antipsychotic",
+                     "Mechanism of Action": "Selective antagonism of dopamine and serotonin 5HT2 receptors in the CNS. Also an inhibitor of serotonin 5HT2a/2c, muscarinic M1-5, Histamine H1, and adrenergic alpha-1 receptors."
+                     },
+                     {
+                     "Generic Name": "Budesonide (inhalation)",
+                     "Brand Name": "Pulmicort®",
+                     "Rating": 183,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "The stimulation of m-RNA by the steroid complex results in the synthesis of specific proteins and ultimately specific enzymes that carry out its antiallergy and anti-inflammatory actions."
+                     },
+                     {
+                     "Generic Name": "Lithium Carbonate",
+                     "Brand Name": "Lithonate®, Lithotabs®, Lithobid®",
+                     "Rating": 184,
+                     "Class": "Antipsychotic",
+                     "Mechanism of Action": "Mood stabilizing effects may be due to an antagonism of the release of norepinephrine and dopamine from nerve terminals or from increasing the reuptake and inactivation of catecholamines. "
+                     },
+                     {
+                     "Generic Name": "Methadone Hydrochloride",
+                     "Brand Name": "Methadone",
+                     "Rating": 185,
+                     "Class": "Opioid Analgesic",
+                     "Mechanism of Action": "Analgesia is produced centrally via action on the central opiate receptors. "
+                     },
+                     {
+                     "Generic Name": "Rivaroxaban",
+                     "Brand Name": "Xarelto®",
+                     "Rating": 186,
+                     "Mechanism of Action": "A selective inhibitor of Factor Xa. Does not have a direct effect on platelet aggregation but indirectly affects platelet aggregation induced by thrombin."
+                     },
+                     {
+                     "Generic Name": "Chlorhexidine Gluconate",
+                     "Brand Name": "Peridex®, Periogard®",
+                     "Rating": 187,
+                     "Class": "Antiplaque Rinse",
+                     "Mechanism of Action": "Causes a disruption of the plasma membrane of the bacterial cell."
+                     },
+                     {
+                     "Generic Name": "Olmesartan Medoxomil w/ Hydrochlorothiazide",
+                     "Brand Name": "Benicar-HCT®",
+                     "Rating": 188,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Blocks the vasoconstrictor and aldosterone secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor found in many tissues. It does not inhibit ACE, nor does it bind to or block other hormone receptors or ion channels known to be important in cardiovascular regulation. "
+                     },
+                     {
+                     "Generic Name": "Dexmethylphenidate Hydrochloride",
+                     "Brand Name": "Focalin® (XR)",
+                     "Rating": 189,
+                     "Class": "CNS Agent for ADHD",
+                     "Mechanism of Action": "In ADHD, the mechanism is not known. It is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space."
+                     },
+                     {
+                     "Generic Name": "Varenicline Tartrate",
+                     "Brand Name": "Chantix™",
+                     "Rating": 190,
+                     "Class": "Smoking Cessation Aid",
+                     "Mechanism of Action": "Partial agonist at nicotinic receptors in the brain. It's mechanism appears to be due to selective binding to the alpha-4-beta-2 neuronal nicotinic acetylcholine receptors. By occupying these sites it prevents stimulation by nicotine of central nervous mesolimbic dopamine system. It also has mild affinity to the serotonin 5-HT3 receptors. "
+                     },
+                     {
+                     "Generic Name": "Eszopiclone",
+                     "Brand Name": "Lunesta®",
+                     "Rating": 191,
+                     "Class": "Sedative",
+                     "Mechanism of Action": "Unknown, but is thought to act at GABA-receptor complexes at binding sites located near or coupled to benzodiazepine receptors. "
+                     },
+                     {
+                     "Generic Name": "Fluticasone Propionate (inhalation)",
+                     "Brand Name": "Flovent®",
+                     "Rating": 192,
+                     "Class": "Antiasthmatic",
+                     "Mechanism of Action": "Adrenocorticoids bind to certain receptor proteins found in the cytoplasm of sensitive cells to form a steroid-receptor complex. This steroid-receptor complex enters the nucleus of the cell where it reacts with chromatin, or DNA. The steroid then uses stored information to stimulate or in some cases inhibit, the transcription of m-RNA. This stimulation of m-RNA results in the synthesis of specific proteins and ultimately specific enzymes that carry out its antiallergy and anti-inflammatory actions."
+                     },
+                     {
+                     "Generic Name": "Doxazosin Mesylate",
+                     "Brand Name": "Cardura® (XL)",
+                     "Rating": 193,
+                     "Class": "Antihypertensive/BPH Agent",
+                     "Mechanism of Action": "Selective antagonist of postsynaptic alpha-1-adrenergic receptors. This action results in dilation of arterioles and veins which leads to decreased peripheral resistance and decreased blood pressure. In the treatment of BPH, it relaxes smooth muscle in the bladder neck and prostate, resulting in improvements in urine flow rates."
+                     },
+                     {
+                     "Generic Name": "Sotalol hydrochloride",
+                     "Brand Name": "Betapace®",
+                     "Rating": 194,
+                     "Class": "Antiarrhythmic (Class II and III)",
+                     "Mechanism of Action": "Has both beta-adrenergic blocking and cardiac action potential duration prolongation antiarrhythmic properties. "
+                     },
+                     {
+                     "Generic Name": "Guanfacine Hydrochloride",
+                     "Brand Name": "Intuniv®",
+                     "Rating": 195,
+                     "Class": "Antipsychotic",
+                     "Mechanism of Action": "Stimulates central alpha-2-adrenergic receptors thereby reducing sympathetic nerve transmission from the vasomotor center in the CNS to the heart and blood vessels. This results In a decreased peripheral resistance and a reduction in the heart rate. It's exact mechanism in ADHD is unknown."
+                     },
+                     {
+                     "Generic Name": "Insulin Detemir",
+                     "Brand Name": "Levemir®",
+                     "Rating": 196,
+                     "Class": "Antidiabetic",
+                     "Mechanism of Action": "In adipose and muscle tissue, insulin activates specific enzymes, promotes the transport of monosaccharides across cell membranes and facilitates the transformation of intracellular amino acids into proteins. Insulin detemir is a recombinant human insulin analog that is long acting. It's prolonged action after injection is due to a strong self-association of drug molecules and albumin binding. "
+                     },
+                     {
+                     "Generic Name": "Desvenlafaxine",
+                     "Brand Name": "Pristiq®",
+                     "Rating": 197,
+                     "Class": "Antidepressant",
+                     "Mechanism of Action": "Potent inhibitor of neuronal serotonin and norepinephrine reuptake."
+                     },
+                     {
+                     "Generic Name": "Tadalafil",
+                     "Brand Name": "Cialis®",
+                     "Rating": 198,
+                     "Class": "Erectile Dysfunction Agent",
+                     "Mechanism of Action": "Inhibits PDE5 which is responsible for the degradation of cGMP in the corpus cavernosum. The increased levels of cGMP allows inflow of blood and resulting erection."
+                     },
+                     {
+                     "Generic Name": "Norethindrone w/ Ethinyl Estradiol (1/35)",
+                     "Brand Name": "Necon® 1/35, Ortho Novum® 1/35",
+                     "Rating": 199,
+                     "Class": "Contraceptive, Oral ",
+                     "Mechanism of Action": "Causes suppression of LH and FSH resulting in the inhibition of ovulation. Thickening of the cervial mucous and alteration of the endometrium may also contribute to their effectiveness."
+                     },
+                     {
+                     "Generic Name": "Bisoprolol Fumarate w/ Hydrochlorothiazide",
+                     "Brand Name": "Ziac®",
+                     "Rating": 200,
+                     "Class": "Antihypertensive",
+                     "Mechanism of Action": "Beta-1 selective adrenergic blocking agent. Mechanism may be due to a decrease in cardiac output, an inhibition of renin release by the kidneys, an inhibition of tonic sympathetic outflow from vasomotor centers in the brain, or a combination of each. "
+                     }
+                     ]
+}

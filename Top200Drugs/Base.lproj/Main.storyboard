@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="Sw9-uw-9r0">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="ZbG-lu-Jvs">
+            <objects>
+                <navigationController id="Sw9-uw-9r0" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Prj-fH-FE2">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="JhY-Bn-O1b" kind="relationship" relationship="rootViewController" id="MaB-Rg-3Mo"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oo9-iK-5MJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1183" y="-341"/>
+        </scene>
+        <!--Drug List Table View-->
+        <scene sceneID="Pfb-iN-q3z">
+            <objects>
+                <tableViewController id="JhY-Bn-O1b" customClass="DrugListTableView" customModule="Top200Drugs" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="90" sectionHeaderHeight="28" sectionFooterHeight="28" id="k7d-6g-NHL">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" rowHeight="100" id="6Jr-pz-E1d" customClass="DrugCell" customModule="Top200Drugs" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="92" width="600" height="100"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="6Jr-pz-E1d" id="xQ0-dB-3G4">
+                                    <rect key="frame" x="0.0" y="0.0" width="600" height="99.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r7H-Pl-UK8">
+                                            <rect key="frame" x="8" y="8" width="584" height="31.5"/>
+                                            <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="23"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ylJ-jw-TdX">
+                                            <rect key="frame" x="8" y="39.5" width="584" height="21"/>
+                                            <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="15"/>
+                                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Nt-tt-fST">
+                                            <rect key="frame" x="8" y="69.5" width="584" height="22"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="120" id="1fQ-8d-HNb"/>
+                                                <constraint firstAttribute="width" constant="50" id="45J-H7-OYX"/>
+                                                <constraint firstAttribute="height" constant="22" id="dBk-Ve-vKw"/>
+                                                <constraint firstAttribute="width" constant="120" id="grX-Ih-RW1"/>
+                                                <constraint firstAttribute="width" constant="120" id="kkX-cM-0mz"/>
+                                                <constraint firstAttribute="height" constant="40" id="yjH-y3-rMh"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" name="AvenirNext-UltraLightItalic" family="Avenir Next" pointSize="16"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                            <variation key="default">
+                                                <mask key="constraints">
+                                                    <exclude reference="1fQ-8d-HNb"/>
+                                                    <exclude reference="45J-H7-OYX"/>
+                                                    <exclude reference="grX-Ih-RW1"/>
+                                                    <exclude reference="kkX-cM-0mz"/>
+                                                    <exclude reference="yjH-y3-rMh"/>
+                                                </mask>
+                                            </variation>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="ylJ-jw-TdX" firstAttribute="trailing" secondItem="xQ0-dB-3G4" secondAttribute="trailingMargin" id="2if-Bh-oyD"/>
+                                        <constraint firstItem="r7H-Pl-UK8" firstAttribute="top" secondItem="xQ0-dB-3G4" secondAttribute="topMargin" id="5in-Iz-Lii"/>
+                                        <constraint firstItem="6Nt-tt-fST" firstAttribute="trailing" secondItem="xQ0-dB-3G4" secondAttribute="trailingMargin" id="AVb-hu-hLW"/>
+                                        <constraint firstItem="ylJ-jw-TdX" firstAttribute="leading" secondItem="xQ0-dB-3G4" secondAttribute="leadingMargin" id="FWT-A0-QBz"/>
+                                        <constraint firstItem="r7H-Pl-UK8" firstAttribute="leading" secondItem="xQ0-dB-3G4" secondAttribute="leadingMargin" id="Pu5-ro-uhj"/>
+                                        <constraint firstItem="6Nt-tt-fST" firstAttribute="leading" secondItem="xQ0-dB-3G4" secondAttribute="leadingMargin" id="R3i-3h-EVM"/>
+                                        <constraint firstItem="ylJ-jw-TdX" firstAttribute="top" secondItem="r7H-Pl-UK8" secondAttribute="bottom" id="XKX-Ig-IOY"/>
+                                        <constraint firstItem="6Nt-tt-fST" firstAttribute="top" secondItem="ylJ-jw-TdX" secondAttribute="bottom" id="fgJ-IG-Fgl"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="6Nt-tt-fST" secondAttribute="bottom" id="hz8-Mo-yhN"/>
+                                        <constraint firstItem="r7H-Pl-UK8" firstAttribute="trailing" secondItem="xQ0-dB-3G4" secondAttribute="trailingMargin" id="kTf-z6-MNT"/>
+                                    </constraints>
+                                    <variation key="default">
+                                        <mask key="constraints">
+                                            <exclude reference="fgJ-IG-Fgl"/>
+                                        </mask>
+                                    </variation>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="drugBrandNameLabel" destination="ylJ-jw-TdX" id="q6w-tl-hTH"/>
+                                    <outlet property="drugClassNameLabel" destination="6Nt-tt-fST" id="kgn-p3-D6i"/>
+                                    <outlet property="drugGenericNameLabel" destination="r7H-Pl-UK8" id="fVG-NZ-5qW"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="m4b-wy-xIg"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="JhY-Bn-O1b" id="Lu5-JZ-gc1"/>
+                            <outlet property="delegate" destination="JhY-Bn-O1b" id="DpK-qx-PEn"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="7sL-vj-znf"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XEt-No-syq" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-486" y="-341"/>
+        </scene>
+        <!--Drug Detail View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="DrugDetailViewController" customModule="Top200Drugs" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="239" y="-347"/>
+        </scene>
+    </scenes>
+</document>
