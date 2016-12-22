@@ -36,7 +36,10 @@ node {
 
          // Wipe the workspace so we are building completely clean
          wipeWorkspace(workspace) 
-      }
+
+           stage: ‘start’
+	        sh ‘echo $path’
+       }
     }
   } catch (e) {
     throw e
