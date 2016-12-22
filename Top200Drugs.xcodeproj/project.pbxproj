@@ -221,6 +221,7 @@
 				TargetAttributes = {
 					70B2B9CE1D7F66B000B7D4ED = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = J7L85E9994;
 					};
 					70B2B9E21D7F66B000B7D4ED = {
 						CreatedOnToolsVersion = 7.3;
@@ -433,6 +434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J7L85E9994;
 				INFOPLIST_FILE = Top200Drugs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ryansjoquist.Top200Drugs;
@@ -444,6 +446,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J7L85E9994;
 				INFOPLIST_FILE = Top200Drugs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ryansjoquist.Top200Drugs;

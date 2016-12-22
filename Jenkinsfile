@@ -40,50 +40,9 @@ node {
 
          // Wipe the workspace so we are building completely clean
          wipeWorkspace(workspace) 
-
-         stage 'Checkout'
-         // Checkout code from repository
-         checkout scm
-
-         // Mark the cocoapods 'stage'....
-
-         stage 'Cocoapods Install'
-	  sh ‘make bootstrap’
-		sh ‘bundle exec fastlane’
-         // Mark the code unit tests 'stage'....
-
-         stage 'Tests'
-
-         // reset the simulators before running tests
-         sh "killall Simulator || true"
-         sh "SNAPSHOT_FORCE_DELETE=yes snapshot reset_simulators"
-         sh "fastlane ios test”   
-
-         step([$class: 'JUnitResultArchiver', testResults: 'build/reports/*.xml'])
-
-         // Mark the code build 'stage'....
-         stage 'Build'
-         sh "security list-keychains -s ~/Library/Keychains/iosbuilds.keychain"
-         sh "security unlock-keychain -p ${env.KEYCHAIN_PASSWORD} /Users/iosbuilds/Library/Keychains/iosbuilds.keychain"
-         if (isRelease()) {
-           sh "fastlane build_release"
-         } else {
-           sh "fastlane build_alpha"
-         }
-
-         // Mark the code deploy 'stage'....
-         stage 'Deploy'
-         if (isRelease()) {
-           slackSend channel: '#ios', color: 'warning', message: "${env.JOB_NAME} (${env.BUILD_NUMBER}) waiting for confirmation to upload to Testflight.\n${env.BUILD_URL}"
-           input 'Please confirm OK to deploy to Testflight?'
-           sh "fastlane deploy_release"
-         } else {
-           sh "fastlane deploy_alpha"
-         }
       }
     }
   } catch (e) {
-    slackSend channel: '#ios', color: 'danger', message: ":dizzy_face: Build failed ${env.JOB_NAME} (${env.BUILD_NUMBER})\n${env.BUILD_URL}"
     throw e
   }
 }
