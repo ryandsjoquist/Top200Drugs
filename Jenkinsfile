@@ -37,7 +37,7 @@ node {
          // Wipe the workspace so we are building completely clean
          wipeWorkspace(workspace) 
 
-           stage: ‘Best Place’
+           stage: "Best Place"
 	        sh ‘echo $path’
 	       
        }
