@@ -1,9 +1,5 @@
 #!groovy
 
-env.PATH = '/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:$PATH’
-env.HOME = '/Users/build'
-env.USER = 'build’
-
 // backwards compat with old branch variable
 env.GIT_BRANCH = env.BRANCH_NAME
 
