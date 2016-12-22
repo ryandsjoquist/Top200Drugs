@@ -31,7 +31,7 @@ def isRelease() {
 }
 
 
-node(‘macJenkins-1’) {
+node {
    try {
      // Clang chokes on %2f in the directory, set manually in the workspace.
      ws(getWorkspace()) {
